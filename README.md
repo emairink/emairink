@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Erick M.
-- 👀 I’m interested in e-commerce, backend and mobile development
-- 🌱 I’m currently learning NextJs
-- 💞️ I’m looking to collaborate on creating high level applications
-- 📫 How to reach me : 
+- Hi, I’m @Erick Mairinque.
+- I’m interested in e-commerce, backend and mobile development
+- I’m looking to collaborate on creating high level applications
+- How to reach me : 
 
   contact me on telegram: 
   📱 +55 61 99169 8258
